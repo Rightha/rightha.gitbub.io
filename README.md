@@ -1,2 +1,2 @@
-# rightha.gitbub.io
+# rightha.github.io
 RighthaSolomon'Home
